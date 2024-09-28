@@ -3,7 +3,7 @@
 // задание 1
 
 let price = prompt('Стоимость товара?');
-let priceBuy = prompt('Скоко деняк??');
+let priceBuy = prompt('Сколько русских баксов?');
 
 if(price < 0 && priceBuy < 0) {
     alert('Ошибка');
